@@ -1,0 +1,64 @@
+[33mcommit 3c87854c897dc95f43bcaf521db96652531e4bb3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Jorge Manuel <jorge.diaz@uelectronics.com>
+Date:   Mon Nov 27 15:48:27 2023 -0600
+
+    Cambios Blogpost
+
+ blogpost.html   |  6 [32m++++++[m
+ css/estilos.css | 45 [32m++++++++++++++++++++++++++++++++++++++++++[m[31m---[m
+ 2 files changed, 48 insertions(+), 3 deletions(-)
+
+[33mcommit 98324356165ee4daf4bd328d62eb67998c17b515[m
+Author: Jorge Manuel <jorge.diaz@uelectronics.com>
+Date:   Fri Nov 24 17:42:38 2023 -0600
+
+    Cambios por checkout
+
+ doc.txt | 4 [32m+[m[31m---[m
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+
+[33mcommit eb54ab0079346bbb18ec71c3effd6edc4c063cb4[m
+Author: Jorge Manuel <jorge.diaz@uelectronics.com>
+Date:   Fri Nov 24 17:38:02 2023 -0600
+
+    Cambio de frase
+
+ doc.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit dcc26520c7c6af5ffa8878cc22365e7cb1936e77[m
+Author: Jorge Manuel <jorge.diaz@uelectronics.com>
+Date:   Fri Nov 24 17:36:55 2023 -0600
+
+    Cambios en varios archivos
+
+ blogpost.html   | 10 [32m++++++++++[m
+ css/estilos.css |  5 [32m+++++[m
+ 2 files changed, 15 insertions(+)
+
+[33mcommit 195df51aed949eb3512ca866261092014ce078cc[m
+Author: Jorge Manuel <jorge.diaz@uelectronics.com>
+Date:   Fri Nov 24 17:06:23 2023 -0600
+
+    Se agregó una nueva linea
+
+ doc.txt | 6 [32m+++++[m[31m-[m
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+[33mcommit ef7388d0d6d8b3b94ef0ee2de29ea494001874ed[m
+Author: Jorge Manuel <jorge.diaz@uelectronics.com>
+Date:   Fri Nov 24 16:59:22 2023 -0600
+
+    Segundo commint
+
+ doc.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
+
+[33mcommit 35051f221d1e3d9c82c99429cef421febac1f1e3[m
+Author: Jorge Manuel <jorge.diaz@uelectronics.com>
+Date:   Fri Nov 24 16:57:52 2023 -0600
+
+    Este es mi primer Commint
+
+ doc.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
